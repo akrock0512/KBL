@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/KBL/static/css/main.50dc5779.chunk.css",
+    "main.js": "/KBL/static/js/main.b6967a8f.chunk.js",
+    "main.js.map": "/KBL/static/js/main.b6967a8f.chunk.js.map",
+    "runtime-main.js": "/KBL/static/js/runtime-main.548fb756.js",
+    "runtime-main.js.map": "/KBL/static/js/runtime-main.548fb756.js.map",
+    "static/js/2.76a010cf.chunk.js": "/KBL/static/js/2.76a010cf.chunk.js",
+    "static/js/2.76a010cf.chunk.js.map": "/KBL/static/js/2.76a010cf.chunk.js.map",
+    "index.html": "/KBL/index.html",
+    "precache-manifest.6e39c627bec515524b31a85f7b94beff.js": "/KBL/precache-manifest.6e39c627bec515524b31a85f7b94beff.js",
+    "service-worker.js": "/KBL/service-worker.js",
+    "static/css/main.50dc5779.chunk.css.map": "/KBL/static/css/main.50dc5779.chunk.css.map",
+    "static/js/2.76a010cf.chunk.js.LICENSE.txt": "/KBL/static/js/2.76a010cf.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/KBL/static/media/logo.9555c55e.svg",
+    "static/media/close.svg": "/KBL/static/media/close.7ae93773.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.548fb756.js",
+    "static/js/2.76a010cf.chunk.js",
+    "static/css/main.50dc5779.chunk.css",
+    "static/js/main.b6967a8f.chunk.js"
+  ]
+}
